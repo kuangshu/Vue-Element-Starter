@@ -70,6 +70,7 @@ const mutations = {
   [UPDATE_USERINFO](state, userInfo) {
     state = Object.assign(state, {
       ...userInfo,
+      loginState: 1,
     });
   },
 };
