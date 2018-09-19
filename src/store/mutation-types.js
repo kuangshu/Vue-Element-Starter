@@ -1,0 +1,4 @@
+export const USER_LOGIN = 'USER_LOGIN';
+export const FETCH_PRODUCT_LIST = 'FETCH_PRODUCT_LIST';
+// pagination
+export const UPDATE_PAGINATION = 'UPDATE_PAGINATION';
